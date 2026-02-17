@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/De7vID/klingon-assistant-data/
+	shallow = true
